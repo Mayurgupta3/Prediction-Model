@@ -30,7 +30,7 @@ Install Tensorflow
 pip install tensorflow
 ```
 
-Install Jupyter Notebook
+Install Keras
 ```
 pip install keras
 ```
